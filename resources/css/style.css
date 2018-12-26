@@ -486,3 +486,11 @@ footer {
         display: none;
     }
 }
+
+
+/* Mobile version screen max-width: 1024px */
+@media only screen and (min-width:768px) and (max-width:1024px) {
+    footer {
+        margin-top: 4rem;
+    }
+}
