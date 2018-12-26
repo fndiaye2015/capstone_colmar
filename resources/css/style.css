@@ -373,7 +373,7 @@ article img {
     flex-direction: column;
     background-color: #fff;
     width: 20rem;
-    height: 9rem;
+    height: 10rem;
     margin-bottom: 2rem;
     margin-right: 2rem;
     position: relative;
@@ -388,7 +388,7 @@ article img {
 }
 
 .card_description {
-    width: 75%;
+    width: 80%;
     line-height: 1.5rem;
     font-size: 0.9rem;
 }
