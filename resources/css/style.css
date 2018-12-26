@@ -79,8 +79,9 @@ nav a:hover {
     }
 
     header {
-        height: 4rem;
+        height: 4.5rem;
         justify-content: center;
+        align-items: baseline;
     }
 
     nav a {
