@@ -98,6 +98,10 @@ nav a:hover {
         background-color:#fff;
     }
     
+    nav a:hover {
+        background-color: #fff;
+    }
+
     li img {
         margin-left: 2rem;
     }
